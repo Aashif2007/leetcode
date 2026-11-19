@@ -1,4 +1,4 @@
-# LeetCode provides TreeNode.
+
 class Solution:
     def recoverTree(self, root: TreeNode | None) -> None:
         first = second = previous = None
