@@ -1,4 +1,4 @@
-# LeetCode provides TreeNode.
+
 class Solution:
     def buildTree(self, preorder: list[int], inorder: list[int]) -> TreeNode | None:
         positions = {value: i for i, value in enumerate(inorder)}
