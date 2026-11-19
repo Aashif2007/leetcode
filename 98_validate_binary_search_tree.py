@@ -1,4 +1,4 @@
-# LeetCode provides TreeNode.
+
 class Solution:
     def isValidBST(self, root: TreeNode | None) -> bool:
         def valid(node, low, high):
