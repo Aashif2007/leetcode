@@ -1,4 +1,4 @@
-# LeetCode provides TreeNode.
+
 class Solution:
     def generateTrees(self, n: int) -> list[TreeNode | None]:
         if n == 0:
