@@ -1,4 +1,4 @@
-# LeetCode provides ListNode and TreeNode.
+
 class Solution:
     def sortedListToBST(self, head: ListNode | None) -> TreeNode | None:
         values = []
